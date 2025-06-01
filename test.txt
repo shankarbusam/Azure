@@ -2,3 +2,5 @@ Hi welcome to git
 
 Hi welcome to git 
 Hi welcome to git Hi welcome to git Hi welcome to git 
+git is  application it is used to changes tracking in project
+git is 
